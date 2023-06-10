@@ -1,0 +1,95 @@
+Jun 10 13:37:25 10.71.56.0 u112219668 Connection from 10.71.56.0 port 25800 on 82.165.88.89 port 22
+Jun 10 13:37:27 10.71.56.0 u112219668 Accepted password for u112219668 from 10.71.56.0 port 25800 ssh2
+Jun 10 13:37:27 10.71.56.0 u112219668 Starting session: subsystem 'sftp' for u112219668 from 10.71.56.0 port 25800 id 0
+Jun 10 13:37:27 10.71.56.0 u112219668 session opened for local user u112219668 from [10.71.56.0]
+Jun 10 13:39:53 10.71.56.0 u112219668 Connection from 10.71.56.0 port 27068 on 82.165.88.89 port 22
+Jun 10 13:39:53 10.71.56.0 u112219668 Accepted password for u112219668 from 10.71.56.0 port 27068 ssh2
+Jun 10 13:39:53 10.71.56.0 u112219668 Connection from 10.71.56.0 port 27070 on 82.165.88.89 port 22
+Jun 10 13:39:53 10.71.56.0 u112219668 Accepted password for u112219668 from 10.71.56.0 port 27070 ssh2
+Jun 10 13:39:53 10.71.56.0 u112219668 Starting session: subsystem 'sftp' for u112219668 from 10.71.56.0 port 27068 id 0
+Jun 10 13:39:53 10.71.56.0 u112219668 Starting session: subsystem 'sftp' for u112219668 from 10.71.56.0 port 27070 id 0
+Jun 10 13:39:53 10.71.56.0 u112219668 session opened for local user u112219668 from [10.71.56.0]
+Jun 10 13:39:53 10.71.56.0 u112219668 session opened for local user u112219668 from [10.71.56.0]
+Jun 10 13:39:53 10.71.56.0 u112219668 open "/index.html" flags READ mode 0666
+Jun 10 13:39:53 10.71.56.0 u112219668 open "/script.js" flags READ mode 0666
+Jun 10 13:39:53 10.71.56.0 u112219668 close "/index.html" bytes read 1038 written 0
+Jun 10 13:39:53 10.71.56.0 u112219668 [10.71.56.0|get|0|1038|0|0|0|2f696e6465782e68746d6c|]
+Jun 10 13:39:53 10.71.56.0 u112219668 close "/script.js" bytes read 16160 written 0
+Jun 10 13:39:53 10.71.56.0 u112219668 [10.71.56.0|get|0|16160|0|0|0|2f7363726970742e6a73|]
+Jun 10 13:39:54 10.71.56.0 u112219668 open "/style.css" flags READ mode 0666
+Jun 10 13:39:54 10.71.56.0 u112219668 sent status No such file
+Jun 10 13:39:54 10.71.56.0 u112219668 close "/style.css" bytes read 19817 written 0
+Jun 10 13:39:54 10.71.56.0 u112219668 [10.71.56.0|get|0|19817|0|0|0|2f7374796c652e637373|]
+Jun 10 13:39:54 10.71.56.0 u112219668 open "/assets/tableau.jpg" flags READ mode 0666
+Jun 10 13:39:54 10.71.56.0 u112219668 open "/assets/StockSnap_MDYWNCW5VO.jpg" flags READ mode 0666
+Jun 10 13:39:54 10.71.56.0 u112219668 close "/assets/tableau.jpg" bytes read 112063 written 0
+Jun 10 13:39:54 10.71.56.0 u112219668 [10.71.56.0|get|0|112063|0|0|0|2f6173736574732f7461626c6561752e6a7067|]
+Jun 10 13:39:54 10.71.56.0 u112219668 open "/assets/StockSnap_PJMASANLD2.jpg" flags READ mode 0666
+Jun 10 13:39:55 10.71.56.0 u112219668 close "/assets/StockSnap_MDYWNCW5VO.jpg" bytes read 13224888 written 0
+Jun 10 13:39:55 10.71.56.0 u112219668 [10.71.56.0|get|1|13224888|0|0|0|2f6173736574732f53746f636b536e61705f4d4459574e435735564f2e6a7067|]
+Jun 10 13:39:55 10.71.56.0 u112219668 open "/assets/e6.png" flags READ mode 0666
+Jun 10 13:39:56 10.71.56.0 u112219668 close "/assets/StockSnap_PJMASANLD2.jpg" bytes read 6150723 written 0
+Jun 10 13:39:56 10.71.56.0 u112219668 [10.71.56.0|get|2|6150723|0|0|0|2f6173736574732f53746f636b536e61705f504a4d4153414e4c44322e6a7067|]
+Jun 10 13:39:56 10.71.56.0 u112219668 close "/assets/e6.png" bytes read 2999952 written 0
+Jun 10 13:39:56 10.71.56.0 u112219668 [10.71.56.0|get|1|2999952|0|0|0|2f6173736574732f65362e706e67|]
+Jun 10 13:39:56 10.71.56.0 u112219668 open "/assets/GA.png" flags READ mode 0666
+Jun 10 13:39:56 10.71.56.0 u112219668 open "/assets/microapp.jpg" flags READ mode 0666
+Jun 10 13:39:56 10.71.56.0 u112219668 close "/assets/GA.png" bytes read 79712 written 0
+Jun 10 13:39:56 10.71.56.0 u112219668 [10.71.56.0|get|0|79712|0|0|0|2f6173736574732f47412e706e67|]
+Jun 10 13:39:56 10.71.56.0 u112219668 close "/assets/microapp.jpg" bytes read 94530 written 0
+Jun 10 13:39:56 10.71.56.0 u112219668 [10.71.56.0|get|0|94530|0|0|0|2f6173736574732f6d6963726f6170702e6a7067|]
+Jun 10 13:39:56 10.71.56.0 u112219668 open "/assets/bg_section.jpg" flags READ mode 0666
+Jun 10 13:39:56 10.71.56.0 u112219668 open "/assets/gt.png" flags READ mode 0666
+Jun 10 13:39:56 10.71.56.0 u112219668 close "/assets/gt.png" bytes read 281908 written 0
+Jun 10 13:39:56 10.71.56.0 u112219668 [10.71.56.0|get|0|281908|0|0|0|2f6173736574732f67742e706e67|]
+Jun 10 13:39:57 10.71.56.0 u112219668 close "/assets/bg_section.jpg" bytes read 928888 written 0
+Jun 10 13:39:57 10.71.56.0 u112219668 [10.71.56.0|get|1|928888|0|0|0|2f6173736574732f62675f73656374696f6e2e6a7067|]
+Jun 10 13:39:57 10.71.56.0 u112219668 open "/assets/StockSnap_W2CDR89NLY.jpg" flags READ mode 0666
+Jun 10 13:39:57 10.71.56.0 u112219668 open "/assets/hkmicroapp.png" flags READ mode 0666
+Jun 10 13:39:57 10.71.56.0 u112219668 close "/assets/StockSnap_W2CDR89NLY.jpg" bytes read 1140278 written 0
+Jun 10 13:39:57 10.71.56.0 u112219668 [10.71.56.0|get|0|1140278|0|0|0|2f6173736574732f53746f636b536e61705f573243445238394e4c592e6a7067|]
+Jun 10 13:39:57 10.71.56.0 u112219668 close "/assets/hkmicroapp.png" bytes read 67461 written 0
+Jun 10 13:39:57 10.71.56.0 u112219668 [10.71.56.0|get|0|67461|0|0|0|2f6173736574732f686b6d6963726f6170702e706e67|]
+Jun 10 13:39:57 10.71.56.0 u112219668 open "/logs/access.log.23.5.gz" flags READ mode 0666
+Jun 10 13:39:57 10.71.56.0 u112219668 open "/logs/access.log.23.4.gz" flags READ mode 0666
+Jun 10 13:39:57 10.71.56.0 u112219668 close "/logs/access.log.23.5.gz" bytes read 2063 written 0
+Jun 10 13:39:57 10.71.56.0 u112219668 [10.71.56.0|get|0|2063|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e352e677a|]
+Jun 10 13:39:57 10.71.56.0 u112219668 close "/logs/access.log.23.4.gz" bytes read 1989 written 0
+Jun 10 13:39:57 10.71.56.0 u112219668 [10.71.56.0|get|0|1989|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e342e677a|]
+Jun 10 13:39:57 10.71.56.0 u112219668 open "/logs/access.log.23.3.gz" flags READ mode 0666
+Jun 10 13:39:57 10.71.56.0 u112219668 open "/logs/access.log.23.2.gz" flags READ mode 0666
+Jun 10 13:39:57 10.71.56.0 u112219668 close "/logs/access.log.23.3.gz" bytes read 1440 written 0
+Jun 10 13:39:57 10.71.56.0 u112219668 [10.71.56.0|get|0|1440|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e332e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.23.2.gz" bytes read 1689 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|1|1689|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e322e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.23.1.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.21.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.23.1.gz" bytes read 1957 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|0|1957|0|0|0|2f6c6f67732f6163636573732e6c6f672e32332e312e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.21.gz" bytes read 12807 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|0|12807|0|0|0|2f6c6f67732f6163636573732e6c6f672e32312e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.22.7.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.22.6.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.22.7.gz" bytes read 1690 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|0|1690|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e372e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.22.6.gz" bytes read 1761 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|0|1761|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e362e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.22.5.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.22.4.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.22.5.gz" bytes read 2821 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|0|2821|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e352e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 close "/logs/access.log.22.4.gz" bytes read 1455 written 0
+Jun 10 13:39:58 10.71.56.0 u112219668 [10.71.56.0|get|0|1455|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e342e677a|]
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.22.3.gz" flags READ mode 0666
+Jun 10 13:39:58 10.71.56.0 u112219668 open "/logs/access.log.22.2.gz" flags READ mode 0666
+Jun 10 13:39:59 10.71.56.0 u112219668 close "/logs/access.log.22.3.gz" bytes read 1008 written 0
+Jun 10 13:39:59 10.71.56.0 u112219668 [10.71.56.0|get|1|1008|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e332e677a|]
+Jun 10 13:39:59 10.71.56.0 u112219668 close "/logs/access.log.22.2.gz" bytes read 1958 written 0
+Jun 10 13:39:59 10.71.56.0 u112219668 [10.71.56.0|get|1|1958|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e322e677a|]
+Jun 10 13:39:59 10.71.56.0 u112219668 open "/logs/access.log.22.1.gz" flags READ mode 0666
+Jun 10 13:39:59 10.71.56.0 u112219668 open "/logs/access.log.20.gz" flags READ mode 0666
+Jun 10 13:39:59 10.71.56.0 u112219668 close "/logs/access.log.22.1.gz" bytes read 2240 written 0
+Jun 10 13:39:59 10.71.56.0 u112219668 [10.71.56.0|get|0|2240|0|0|0|2f6c6f67732f6163636573732e6c6f672e32322e312e677a|]
+Jun 10 13:39:59 10.71.56.0 u112219668 close "/logs/access.log.20.gz" bytes read 32902 written 0
+Jun 10 13:39:59 10.71.56.0 u112219668 [10.71.56.0|get|0|32902|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e677a|]
+Jun 10 13:39:59 10.71.56.0 u112219668 open "/logs/sftp.log" flags READ mode 0666
